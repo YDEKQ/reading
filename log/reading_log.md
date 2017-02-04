@@ -12,3 +12,6 @@
 | 2017/02/03 | The Coldest Place On Earth | Tim Vicary | 4782 | 41934 |
 | 2017/02/03 | William Shakespeare | Jannifer Bassett | 7994 | 49928 |
 | 2017/02/03 | The Love of a King | Peter Dainty | 5830 | 55758 |
+| 2017/02/04 | Dead Man's Island | John Escott | 4747 | 60505 |
+| 2017/02/04 | The Adventures of Huckleberry Finn | Mark Twain | 5887 | 66392 |
+
