@@ -14,4 +14,9 @@
 | 2017/02/03 | The Love of a King | Peter Dainty | 5830 | 55758 |
 | 2017/02/04 | Dead Man's Island | John Escott | 4747 | 60505 |
 | 2017/02/04 | The Adventures of Huckleberry Finn | Mark Twain | 5887 | 66392 |
-
+| 2017/02/05 | Robinson Cruso | Daniel Defoe | 6437 | 72829 |
+| 2017/02/05 | Alice's Adventures in Wonderland | Lewis Carroll | 5931 | 78760 |
+| 2017/02/05 | Anne of Green Gables  | LM Montgomery | 6084 | 84844 |
+| 2017/02/06 | Five Children and It | Edith Nesbit | 6022 | 90866 |
+| 2017/02/06 | Frankenstein | Mary Shelley | 9204 | 100070 |
+| 2017/02/06 | The Call of the Wild | Jack London | 10353 | 110423 |
