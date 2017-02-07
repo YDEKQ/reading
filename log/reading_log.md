@@ -20,3 +20,6 @@
 | 2017/02/06 | Five Children and It | Edith Nesbit | 6022 | 90866 |
 | 2017/02/06 | Frankenstein | Mary Shelley | 9204 | 100070 |
 | 2017/02/06 | The Call of the Wild | Jack London | 10353 | 110423 |
+| 2017/02/07 | The Secret Garden | Frances Hodgson Burnett | 9609 | 120032 |
+| 2017/02/07 | The Prisoner of Zenda | Anthony Hope | 9792 | 129824 |
+| 2017/02/07 | Alice's Adventures in Wonderland | Lewis Carroll | 9263 | 139087 |
