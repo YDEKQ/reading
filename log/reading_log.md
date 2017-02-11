@@ -1,7 +1,7 @@
 ![](reading_log.png)
 
 |date|book name|author|words count|total|
-|:--|:--|:--|--:|--:|
+|---|---|---|--:|--:|
 |2017/01/31|Love or Money|Romena Akinyemi|5482|5482|
 |2017/01/31|Mary Queen of Scots|Tim Vicary|6276|11758|
 |2017/01/31|Under the Moon|Romena Akinyemi|4154|15912|
@@ -26,3 +26,5 @@
 |2017/02/08|The Wind in the Willow|Kenneth Grahame|11745|150832|
 |2017/02/09| Tales of Mystery and Imagination|Edgar Allan Poe|7988|158820|
 |2017/02/09|A Christmas Carol|Charles Dickens|9161|167981|
+|2017/02/10|The Picture of Dorian Gray|Oscar Wilde|9519|177500|
+|2017/02/11|The Bronte Story|Tim Vicary|9250|186750|
