@@ -24,7 +24,9 @@
 |2017/02/07| The Prisoner of Zenda|Anthony Hope|9792|129824|
 |2017/02/07|Alice's Adventures in Wonderland|Lewis Carroll|9263|139087|
 |2017/02/08|The Wind in the Willow|Kenneth Grahame|11745|150832|
-|2017/02/09| Tales of Mystery and Imagination|Edgar Allan Poe|7988|158820|
+|2017/02/09|Tooth And Claw|Saki|7988|158820|
 |2017/02/09|A Christmas Carol|Charles Dickens|9161|167981|
 |2017/02/10|The Picture of Dorian Gray|Oscar Wilde|9519|177500|
 |2017/02/11|The Bronte Story|Tim Vicary|9250|186750|
+|2017/02/12|The Star Zoo|Harry Gilbert|8318|195068|
+|2017/02/12| Tales of Mystery and Imagination|Edgar Allan Poe|10588|205656|
