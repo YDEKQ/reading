@@ -29,4 +29,7 @@
 |2017/02/10|The Picture of Dorian Gray|Oscar Wilde|9519|177500|
 |2017/02/11|The Bronte Story|Tim Vicary|9250|186750|
 |2017/02/12|The Star Zoo|Harry Gilbert|8318|195068|
-|2017/02/12| Tales of Mystery and Imagination|Edgar Allan Poe|10588|205656|
+|2017/02/12|Tales of Mystery and Imagination|Edgar Allan Poe|10588|205656|
+|2017/02/13|Kidnapped|Robert Stevenson|11585|217241|
+|2017/02/14|Chemical Secret|Tim Vicary|8790|226031|
+|2017/02/14|The Hound of the Baskervilles|Arthur Conan Doyle|17899|243930|
