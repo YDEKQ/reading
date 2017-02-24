@@ -42,3 +42,4 @@
 |2017/02/21|A Tale of Two Cities|Charles Dickens|14994|347810|
 |2017/02/22|Gulliver's Travels|Jonathan Swift|13797|361607|
 |2017/02/23|Treasure Island|Robert Louis Stevenson|14650|376257|
+|2017/02/24|Black Beauty|Anna Sewell|14511|390768|
