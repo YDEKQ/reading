@@ -1,4 +1,4 @@
-![](reading_log.png)
+﻿![](reading_log.png)
 
 |date|book name|author|words count|total|
 |---|---|---|--:|--:|
