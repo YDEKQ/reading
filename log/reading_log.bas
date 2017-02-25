@@ -1,11 +1,15 @@
-Attribute VB_Name = "md_table"
-'版本号
-Public Const TOOL_VERSION As String = "6.0"
+Attribute VB_Name = "reading_log"
+'reading_log.xlsm
+'用于将excel表格内容产生md格式文本的VBA宏代码
+'Author: https://github.com/ninja33
 
-'Excel查询表格中，第一个待查单词的行数
+'版本号
+Public Const TOOL_VERSION As String = "1.0"
+
+'Excel表格中用于产生表格的首行行数
 Public Const HEAD_ROW As Integer = 5
 
-'获取Excel纵向单词的range值
+'获取Excel纵向行数的range值
 Public Function getWordList() As Range
     Dim r As Integer
     
@@ -30,40 +34,37 @@ Public Function getColList() As Range
 End Function
 
 Sub WriteOut()
-
-    
     Dim fsT, cText, tFilePath As String
-    Dim x, y, columnlist As Range
+    Dim x, y, rowlist, columnlist As Range
     
-    
-    tFilePath = Application.ActiveWorkbook.Path + "\reading_log.txt"
-    'Create Stream object
-    Set fsT = CreateObject("ADODB.Stream")
-    fsT.Type = 2
-    fsT.Charset = "utf-8"
-
-    'Open the stream And write binary data To the object
-    fsT.Open
-    
-    If Not getWordList() Is Nothing Then
+    Set rowlist = getWordList()
         
+    If Not rowlist Is Nothing Then
         Set columnlist = getColList()
         
+        tFilePath = Application.ActiveWorkbook.Path + "\reading_log.md"
+        'Create Stream object
+        Set fsT = CreateObject("ADODB.Stream")
+        fsT.Type = 2
+        fsT.Charset = "utf-8"
+    
+        'Open the stream And write binary data To the object
+        fsT.Open
+    
         '输出表头
         cText = "![](reading_log.png)" & vbCrLf & vbCrLf
         fsT.writetext cText
         
-        '按单词列表输出的主循环
-        For Each x In getWordList()
+        '按列表输出的主循环
+        For Each x In rowlist
             cText = ""
             For Each y In columnlist
                 cText = cText & "|" & x.Offset(0, y.Column() - 1).Value
             Next y
-            cText = cText & "|" & vbCrLf '将最后一个tab换成回车符
+            cText = cText & "|" & vbCrLf '行末添加回车符
             fsT.writetext cText
         Next x
 
-            
         '保存文件
         fsT.SaveToFile tFilePath, 2
         MsgBox "文件已经生成！" & vbCrLf & vbCrLf & "目录: " & tFilePath
