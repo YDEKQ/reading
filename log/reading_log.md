@@ -44,4 +44,4 @@
 |2017/02/23|Treasure Island|Robert Louis Stevenson|14650|376257|
 |2017/02/24|Black Beauty|Anna Sewell|14511|390768|
 |2017/02/25|David Copperfield|Charles Dickens|23280|414048|
-|2017/02/26|Far From The Madding Crowd 1-6|Thomas Hardy|7156|421204|
+|2017/02/26|Far From The Madding Crowd 1-8|Thomas Hardy|9615|423663|
