@@ -9,3 +9,4 @@
 |2017/03/04|Oliver Twist(4-8)|Charles Dickens|10046|523121|
 |2017/03/05|Oliver Twist(9-14)|Charles Dickens|12426|535547|
 |2017/03/06|Pride and Prejudice(1-4)|Jane Austen|9231|544778|
+|2017/03/07|Pride and Prejudice(5-7)|Jane Austen|7873|552651|
