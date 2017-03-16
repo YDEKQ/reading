@@ -14,3 +14,5 @@
 |2017/03/08|A Rose for Emily|William Faulkner|3654|566829|
 |2017/03/10|Tess of the D’urbervilles(1-6)|Thomas Hardy|6231|573060|
 |2017/03/13|Tess of the D’urbervilles(7-8)|Thomas Hardy|3588|576648|
+|2017/03/15|Tess of the D’urbervilles(9-12)|Thomas Hardy|4638|581286|
+|2017/03/16|Tess of the D’urbervilles(13-20)|Thomas Hardy|15886|597172|
