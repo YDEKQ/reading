@@ -4,5 +4,4 @@
 
 |date|log name|total|
 |---|---|--:|
-|2017/02|[reading_log_201702.md](log/reading_log_201702.md)|459099|
-|2017/03|[reading_log.md](log/reading_log.md)|...|
+|2017/05|[reading_log.md](log/reading_log.md)|...|
