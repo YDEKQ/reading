@@ -16,4 +16,6 @@
 |2017/03/13|Tess of the D’urbervilles(7-8)|Thomas Hardy|3588|576648|
 |2017/03/15|Tess of the D’urbervilles(9-12)|Thomas Hardy|4638|581286|
 |2017/03/16|Tess of the D’urbervilles(13-20)|Thomas Hardy|15886|597172|
-|2017/03/30|The Rithmatist|Sanderson, Brandon |89898|687070|
+|2017/03/30|The Rithmatist|Sanderson, Brandon|89898|687070|
+|2017/05/17|Animal Farm|Orwell, George|29060|716130|
+|2017/05/18|Charlotte's Web|White, E.B. |31938|748068|
