@@ -1,13 +1,11 @@
-# For Personal Reading Log
-
-![](log/reading_log.png)
+# Reading Log
 
 |Date|Reading Log|
 |---|---|
 |2017|[reading_log.md](log/reading_log.md)|
 
----
-# Test Your Vocabulary (testyourvocab.com)
+
+# Vocabulary
 
 |Date|number of entries|
 |---|--:|
